@@ -1,0 +1,3 @@
+﻿  Inicializando variáveis.cpp
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Inicializando variáveis\Inicializando variáveis.cpp(12,20): warning C4305:  'inicializando': truncamento de 'double' para 'float'
+  Inicializando variáveis.vcxproj -> C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Inicializando variáveis\Debug\Inicializando variáveis.exe

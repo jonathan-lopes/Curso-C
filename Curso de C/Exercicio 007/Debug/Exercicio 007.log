@@ -1,0 +1,4 @@
+﻿  Exercicio 007.cpp
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Exercicio 007\Exercicio 007.cpp(12,17): warning C4305:  '=': truncamento de 'double' para 'float'
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Exercicio 007\Exercicio 007.cpp(14,12): warning C4305:  '=': truncamento de 'double' para 'float'
+  Exercicio 007.vcxproj -> C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Exercicio 007\Debug\Exercicio 007.exe

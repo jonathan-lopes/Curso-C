@@ -1,0 +1,3 @@
+﻿  Exercicio 009.cpp
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Exercicio 009\Exercicio 009.cpp(10,28): warning C4305:  'inicializando': truncamento de 'double' para 'float'
+  Exercicio 009.vcxproj -> C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Exercicio 009\Debug\Exercicio 009.exe

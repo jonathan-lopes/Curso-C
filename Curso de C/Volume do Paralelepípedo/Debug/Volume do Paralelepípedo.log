@@ -1,0 +1,5 @@
+﻿  Volume do Paralelepípedo.cpp
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Volume do Paralelepípedo\Volume do Paralelepípedo.cpp(10,38): warning C4101:  'altura': variável local não referenciada
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Volume do Paralelepípedo\Volume do Paralelepípedo.cpp(10,16): warning C4101:  'largura': variável local não referenciada
+C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Volume do Paralelepípedo\Volume do Paralelepípedo.cpp(10,8): warning C4101:  'volume': variável local não referenciada
+  Volume do Paralelepípedo.vcxproj -> C:\Users\pc\Documents\Visual Studio 2019\Curso de c\Volume do Paralelepípedo\Debug\Volume do Paralelepípedo.exe
