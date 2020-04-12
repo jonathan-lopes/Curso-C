@@ -8,13 +8,15 @@
 int main()
 {
     int numero, soma = 0;
-    for (int i = 0 ; i <= 10 ; i++)
+
+    for (int i = 0 ; i < 10 ; i++)
     {
-        printf(" ");
+        printf("Digite um valor: \n");
         scanf_s("%d", &numero);
-        soma = soma + numero;
-        printf("valor: %d",soma );
+        soma += numero;   
     }
+
+    printf("valor: %d \n", soma);
     
     system("pause");
     return 0;

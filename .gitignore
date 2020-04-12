@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Curso de C/Exercicio 029/.vs/Exercicio 029/v16/ipch/AutoPCH/789cd4643170ab0/EXERCICIO 029.ipch
+*.ipch
+*.log
