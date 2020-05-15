@@ -12,11 +12,11 @@ int main()
 
 		if (number > 0)
 		{
-			soma_POSITIVO = soma_POSITIVO + number;
+			soma_POSITIVO += number;
 		}
 		else 
 		{
-			soma_NEGATIVO = soma_NEGATIVO + number;
+			soma_NEGATIVO += number;
 		}
 	}
 
