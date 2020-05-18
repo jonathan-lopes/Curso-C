@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Desafio_Olimpico.cpp">
+    <ClCompile Include="Desafio_Olimpico.c">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
