@@ -61,6 +61,7 @@ Curso de C/Exercicio 029/.vs/Exercicio 029/v16/ipch/AutoPCH/789cd4643170ab0/EXER
 *.exe.recipe
 *.log
 *.idb
+*.sln
 *.pdb
 *.vs
 *.sqlite
