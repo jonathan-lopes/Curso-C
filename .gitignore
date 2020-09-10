@@ -55,9 +55,15 @@ Curso de C/Exercicio 029/.vs/Exercicio 029/v16/ipch/AutoPCH/789cd4643170ab0/EXER
 *.log
 *.opendb
 *.json
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.exe.recipe
+*.log
+*.idb
+*.pdb
+*.vs
 *.sqlite
-*.tlog
-*.tlog
 *.lastbuildstate
 *.tlog
 Curso de C/Exercicio 030/.vs/Exercicio 030/v16/Browse.VC.db
