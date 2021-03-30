@@ -5,7 +5,6 @@
     positivo número maio do que 0.
 */
 
-#include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
 
